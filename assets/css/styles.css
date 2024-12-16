@@ -705,3 +705,10 @@ a {
   margin: 18px auto 38px;
   font-size: 1.6rem;
 }
+
+/* Footer */
+.footer {
+  margin-bottom: 500px;
+  background: #10375c;
+  padding: 100px;
+}
